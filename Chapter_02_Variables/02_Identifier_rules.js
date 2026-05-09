@@ -5,6 +5,7 @@ var a123z = 50;
 var firstName = "Vinnu"; // camelCase 
 var FirstName = "Vinnu"; // PascalCase
 var first_name = "Vinnu"; // snake_case
+let name = "apple";
 
 // Invalid identifiers
 // var 123abc = 20; // Cannot start with a number
