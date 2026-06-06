@@ -1,5 +1,5 @@
 // A function that makes another function as its argument or returns another function id Higher order function
-// Function as an argument
+// Function as an argument -
 function runWithLogging(testFn, testName) {
     console.log(`Starting: ${testName}`);
     let results = testFn();
@@ -16,3 +16,4 @@ function loginTest2() {
 }
 
 runWithLogging(loginTest, "1st login");
+// callback function - the function that is passed as an argument for another function
