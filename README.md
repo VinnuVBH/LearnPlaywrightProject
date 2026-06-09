@@ -32,6 +32,78 @@ This repository contains JavaScript fundamentals organized by chapters, building
 - Real-world `if/else` examples
 - Statement-based tasks
 
+### Chapter 07: Switch
+- Simple `switch` statements
+- Real-time `switch` examples
+- `switch`-based interview questions
+
+### Chapter 08: Loops
+- `for` loop
+- `while` loop
+- `do...while` loop
+- Loop-based interview questions and tasks
+
+### Chapter 09: Arrays
+- Creating and accessing arrays
+- Modifying arrays
+- Adding and removing elements
+- Iteration methods
+- Searching, slicing, and concatenating arrays
+- Transforming and sorting arrays
+
+### Chapter 10: Functions
+- Basic function declarations
+- Functions with parameters and return values
+- Template literals with functions
+- Function expressions
+- Arrow functions
+- IIFE (Immediately Invoked Function Expressions)
+- Default and rest parameters
+- Spread operator
+- Scope concepts
+- Closures
+- Higher-order functions
+- Real-world function examples
+- Interview questions
+
+### Chapter 11: Tasks
+- Practice tasks and exercises
+- HTTP status code tasks
+- Pass/fail logic tasks
+- Bug severity tasks
+- Palindrome and anagram programmes
+
+### Chapter 12: Tests
+- Test exercises (24 May, 31 May)
+
+### Chapter 13: Strings
+- String creation and types
+- Searching and checking strings
+- Substring operations
+- Transforming strings
+- String conversion
+- String cheat sheet
+
+### Chapter 14: Objects
+- Object basics and creation
+- Object properties and methods
+- Object functions and deconstruction
+- Nested objects
+- Spread operator with objects
+- `get`/`set` methods
+- `keys` and `values`
+- Object iterations
+- Real-world object examples
+- Primitive vs object references
+- Interview questions
+
+### Chapter 15: 2D Arrays
+- 2D array basics
+- Interview questions on 2D arrays
+- Real-life examples
+- 2D array functions
+- Pyramid patterns
+
 ---
 
 *Part of the Learn Playwright Project.*
