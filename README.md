@@ -104,6 +104,13 @@ This repository contains JavaScript fundamentals organized by chapters, building
 - 2D array functions
 - Pyramid patterns
 
+### Chapter 16: Callbacks
+- Callback fundamentals
+- Callbacks in Playwright
+- Callback functions with parameters and return values
+- Callback hell (nested callbacks)
+- Anonymous and arrow function callbacks
+
 ---
 
 *Part of the Learn Playwright Project.*

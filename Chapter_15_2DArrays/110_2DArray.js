@@ -14,7 +14,7 @@ for (i = 0; i < 3; i++) {
         console.log(grid[i][j]);
 
     }
-    console.log("\n");
+    console.log("\n");  // to print in the next line afetr 1 array
 
 }
 
